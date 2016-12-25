@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConvergeTest.Entities", "ConvergeTest.Entities\ConvergeTest.Entities.vbproj", "{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
