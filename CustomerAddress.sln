@@ -3,18 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Entities", "ConvergeTest.Entities\CustomerAddress.Entities.vbproj", "{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Entities", "CustomerAddress.Entities\CustomerAddress.Entities.vbproj", "{49BAB9A0-178D-4C25-B20F-C19FE6020DBE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Data", "ConvergeTest.Data\CustomerAddress.Data.vbproj", "{BB727780-EDD5-474F-8872-975A54B0509C}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Data", "CustomerAddress.Data\CustomerAddress.Data.vbproj", "{BB727780-EDD5-474F-8872-975A54B0509C}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Service", "ConvergeTest.Service\CustomerAddress.Service.vbproj", "{608C68FA-EAF8-41F8-9DDC-98513FF3F373}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Service", "CustomerAddress.Service\CustomerAddress.Service.vbproj", "{608C68FA-EAF8-41F8-9DDC-98513FF3F373}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.UI", "ConvergeTest.UI\CustomerAddress.UI.vbproj", "{E2AB0AAB-2843-461C-B4DF-2021704888CB}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.UI", "CustomerAddress.UI\CustomerAddress.UI.vbproj", "{E2AB0AAB-2843-461C-B4DF-2021704888CB}"
 	ProjectSection(ProjectDependencies) = postProject
 		{608C68FA-EAF8-41F8-9DDC-98513FF3F373} = {608C68FA-EAF8-41F8-9DDC-98513FF3F373}
 	EndProjectSection
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Common", "ConvergeTest.Common\CustomerAddress.Common.vbproj", "{E93DE6A3-70EF-448C-A69C-D6037B292393}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomerAddress.Common", "CustomerAddress.Common\CustomerAddress.Common.vbproj", "{E93DE6A3-70EF-448C-A69C-D6037B292393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

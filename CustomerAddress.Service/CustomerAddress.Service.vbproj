@@ -102,15 +102,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConvergeTest.Common\CustomerAddress.Common.vbproj">
+    <ProjectReference Include="..\CustomerAddress.Common\CustomerAddress.Common.vbproj">
       <Project>{e93de6a3-70ef-448c-a69c-d6037b292393}</Project>
       <Name>CustomerAddress.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ConvergeTest.Data\CustomerAddress.Data.vbproj">
+    <ProjectReference Include="..\CustomerAddress.Data\CustomerAddress.Data.vbproj">
       <Project>{bb727780-edd5-474f-8872-975a54b0509c}</Project>
       <Name>CustomerAddress.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ConvergeTest.Entities\CustomerAddress.Entities.vbproj">
+    <ProjectReference Include="..\CustomerAddress.Entities\CustomerAddress.Entities.vbproj">
       <Project>{49bab9a0-178d-4c25-b20f-c19fe6020dbe}</Project>
       <Name>CustomerAddress.Entities</Name>
     </ProjectReference>
